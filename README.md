@@ -1,0 +1,1 @@
+# Base project for building npm lib int typescript.
